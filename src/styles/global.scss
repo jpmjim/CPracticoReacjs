@@ -1,6 +1,17 @@
 $base-color: #ff0000;
 $color: rgba(black, 0.88);
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+
 body {
   background-color: $base-color;
   color: $color;

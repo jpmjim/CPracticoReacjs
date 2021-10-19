@@ -29,4 +29,8 @@ npm i babel-loader html-loader html-webpack-plugin
 Componentes para estilos "sass" "css" en dependencias de desarrollo
 npm i mini-css-extract-plugin css-loader style-loader sass sass-loader -D
 
+Uso de peticiones usaremos Axios
+npm install axios
+npm i @babel/plugin-transform-runtime //plugin para babel
+
 

@@ -44,5 +44,8 @@
     "sass": "^1.43.2",
     "sass-loader": "^12.2.0",
     "style-loader": "^3.3.0"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }

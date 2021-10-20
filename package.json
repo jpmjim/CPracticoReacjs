@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/jpmjim/CPracticoReacjs/issues"
   },
-  "homepage": "https://github.com/jpmjim/CPracticoReacjs#readme",
+  "homepage": "https://github.com/jpmjim/CPracticoReacjs",
   "dependencies": {
     "@babel/core": "^7.15.8",
     "@babel/plugin-transform-runtime": "^7.15.8",
@@ -44,8 +44,5 @@
     "sass": "^1.43.2",
     "sass-loader": "^12.2.0",
     "style-loader": "^3.3.0"
-  },
-  "engines": {
-    "node": "14.x"
   }
 }
